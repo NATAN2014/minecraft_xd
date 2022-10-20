@@ -6,3 +6,9 @@ body {
 h1{
     background-color: #c64fbd;
 }
+.nawigacja{
+    display: flex;
+    gap: 30px;
+    background-color: #c64fbd;
+    
+}
